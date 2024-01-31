@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amenihosni&label=Profile%20views&color=0e75b6&style=flat" alt="amenihosni" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amenihosni" alt="amenihosni" /></a> </p>
+
 
  
  🌱 I’m currently learning **JAVA, Python**
@@ -109,10 +109,16 @@
     </a>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align="center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amenihosni&show_icons=true&locale=en&layout=compact" alt="amenihosni" /></p>
+<style>
+  .centered-container {
+    text-align: center;
+  }
+</style>
 
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&" alt="amenihosni" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<div class="centered-container">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amenihosni&show_icons=true&locale=en&layout=compact" alt="amenihosni" /></p>
+
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&" alt="amenihosni" /></p>
 </div>
 
