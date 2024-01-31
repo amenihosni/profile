@@ -111,7 +111,6 @@
 </style>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<div class="centered-container">
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amenihosni&show_icons=true&count_private=true&theme=radical)
-    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amenihosni)
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amenihosni&show_icons=true&locale=en&layout=compact" alt="amenihosni" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&" alt="amenihosni" /></p>
