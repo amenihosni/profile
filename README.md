@@ -23,11 +23,6 @@
  
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ameni hosni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameni hosni" height="30" width="40" /></a>
-</p>
-
 
 <style>
   .icon-container {
@@ -117,8 +112,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div class="centered-container">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amenihosni&show_icons=true&locale=en&layout=compact" alt="amenihosni" /></p>
-
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&" alt="amenihosni" /></p>
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amenihosni&show_icons=true&count_private=true&theme=radical)
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amenihosni)
 </div>
-
