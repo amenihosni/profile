@@ -29,13 +29,31 @@
 </p>
 
 
+<style>
+  .icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+  .icon-container img {
+    margin: 5px; /* Adjust the margin as needed to control the spacing between icons */
+  }
+</style>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div class="icon-container" align="center">
     <img src="https://skillicons.dev/icons?i=arduino,c,cplusplus,css3,git,html5,illustrator,java,javascript,linux,opencv,oracle,php,python,qt" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amenihosni&show_icons=true&locale=en&layout=compact" alt="amenihosni" /></p>
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amenihosni&show_icons=true&locale=en&layout=compact" alt="amenihosni" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&" alt="amenihosni" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&" alt="amenihosni" /></p>
+</div>
+
