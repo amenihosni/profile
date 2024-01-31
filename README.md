@@ -4,12 +4,12 @@
 
 <h3 align="center">A passionate It student from Tunisia </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amenihosni&label=Profile%20views&color=0e75b6&style=flat" alt="amenihosni" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=amenihosni&label=Profile%20views&color=0e75b6&style=flat" alt="amenihosni" /> </p>
 
 
 
  
- 🐍 I’m currently learning **JAVA, Python**🐍
+<center> 🐍 I’m currently learning **JAVA, Python**🐍</center>
 
  </div>
  
@@ -22,23 +22,6 @@
   </a>
  
 </div>
-
-
-<style>
-  .icon-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: black;
-    padding: 10px;
-    border-radius: 10px;
-  }
-
-  .icon-container img {
-    margin: 5px; /* Adjust the margin as needed to control the spacing between icons */
-  }
-</style>
-
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
