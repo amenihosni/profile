@@ -9,7 +9,7 @@
 
 
  
- 🌱 I’m currently learning **JAVA, Python**
+ 🐍 I’m currently learning **JAVA, Python**🐍
 
  </div>
  
@@ -39,20 +39,7 @@
   }
 </style>
 
-<style>
-  .icon-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: black !important;
-    padding: 10px;
-    border-radius: 10px;
-  }
 
-  .icon-container img {
-    margin: 5px; /* Adjust the margin as needed to control the spacing between icons */
-  }
-</style>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
